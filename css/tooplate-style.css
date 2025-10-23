@@ -52,7 +52,7 @@ Template 2106 Soft Landing
   }
 
   a {
-    color: #202020;
+    color: #ffffff;
     text-decoration: none !important;
   }
 
@@ -501,7 +501,7 @@ Template 2106 Soft Landing
   }
 
   .testimonial-info {
-    background: #202020;
+    background: #ffffff;
     padding: 60px;
     height: 65vh;
   }
@@ -747,9 +747,9 @@ Template 2106 Soft Landing
 
     .custom-navbar {
       background: #ffffff;
-      -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-      -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-      box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      -webkit-box-shadow: 0 1px 30px rgb(255, 255, 255);
+      -moz-box-shadow: 0 1px 30px rgb(255, 255, 255);
+      box-shadow: 0 1px 30px rgb(255, 255, 255);
       padding: 10px 0;
       text-align: center;
     }
