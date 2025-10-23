@@ -626,7 +626,7 @@ Template 2106 Soft Landing
   }
 
   #contact-form input[type='submit'] {
-    background: #202020;
+    background: #ffffff;
     border-radius: 50px;
     border: 0;
     color: #ffffff;
@@ -682,7 +682,7 @@ Template 2106 Soft Landing
   }
 
   .social-icon li a:hover {
-    background: #536976;
+    background: #ffffff;
     color: #ffffff;
   }
 
@@ -761,13 +761,13 @@ Template 2106 Soft Landing
 
     .custom-navbar .navbar-brand,
     .top-nav-collapse .navbar-brand {
-      color: #202020;
+      color: #ffffff;
       font-weight: normal;
     }
 
     .custom-navbar .nav li a,
     .top-nav-collapse .nav li a {
-      color: #656565;
+      color: #ffffff;
     }
 
     .feature-image {
