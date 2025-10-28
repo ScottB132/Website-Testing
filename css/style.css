@@ -373,7 +373,7 @@
   #feature .nav-tabs>li.active>a:focus, 
   #feature .nav-tabs>li.active>a:hover {
     background: transparent;
-    color: #202020;
+    color: #ffffff;
     border-bottom: 3px solid #29ca8e;
   }
 
