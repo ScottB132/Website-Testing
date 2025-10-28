@@ -381,7 +381,7 @@
   #feature .nav>li>a:hover {
     background: transparent;
     border-bottom: 3px solid #29ca8e;
-    color: #202020;
+    color: #fffdfd;
   }
 
   #feature .tab-content {
